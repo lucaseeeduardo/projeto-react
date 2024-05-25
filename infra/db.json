@@ -1,0 +1,16 @@
+{
+  "Tarefas": [
+    {
+      "id": "484c5ce0-a2bd-4fcf-9f6a-ce61a43bf02c",
+      "funcao": "Fazer nada",
+      "feito": false,
+      "editando": false
+    },
+    {
+      "id": "e47b8384-dee4-42e5-86da-b1cec8c728c3",
+      "funcao": "Limpar o quarto",
+      "feito": false,
+      "editando": false
+    }
+  ]
+}
