@@ -1,4 +1,4 @@
-#Iniciando o projeto localmente!
+Iniciando o projeto localmente!
 
 Existem alguns passos necessários a serem seguidos para executar o projeto localmente!
 
